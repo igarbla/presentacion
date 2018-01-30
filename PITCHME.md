@@ -11,8 +11,5 @@ Estudié en el colegio inglés San Jorge hasta 1º de BUP, terminé el bachiller
 
 Obtuve el título de FPII en *Técnico especialista en informática de gestión*.
 
----
-
-Mi afición por la informática viene de lejos
-
-![video](https://media.giphy.com/media/qMGZzsYePfwv6/giphy.gif)
+---?video=https://media.giphy.com/media/qMGZzsYePfwv6/giphy.gif
+Mi afición por la informática viene de lejos ...
