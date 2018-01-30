@@ -51,4 +51,41 @@ También desarrollé diversos *scripts*, en *Ruby*, que solucionaban algunas car
 
 ---
 
-Después de 17 años, con la llegada de la crisis, emprendí mi carrera como *autónomo* en el mundo del *diseño web*. Tras varios años, con aciertos y tropiezos, que el *diseño web* es bastante más que codificar los documentos en *HTML*; se ha de entender primero el problema a resolver, concretar los objetivos del cliente y los de los usuarios, analizar el problema,tener en cuenta los contenidos y elaborar una estrategia y finalmente diseñar un *sitio web* que solucione el problema planteado.
+Después de 17 años, con la llegada de la crisis, emprendí mi carrera como *autónomo* en el mundo del *diseño web*.
+
+---
+
+Tras varios años, con aciertos y tropiezos, he aprendido que el *diseño web* es bastante más que codificar los documentos en *HTML*.
+
+---
+
+La mayoría de los proyectos los he realizado con *Drupal* pero el mantenimiento de un *CMS* llega a er difícil al entrar en juego la base de datos, las actulizaciones de los módulos, etc; y requiere de bastante esfuerzo.
+
+---
+
+Ahora los proyectos intento realizarlos siguiendo la arquitectura [JAMStack](https://jamstack.org), y de esta manera dejar atrás los *CMS*.
+
+---
+
+He empezado a abordar los proyectos intentando seguir el siguiente proceso:
+
+- Reserch
+- Content Strategy
+- Code
+
+---
+
+Algunas de las herramientas que suelo utilizar son:
+
+- Atom/Vim
+- Firefox/Chrome
+- Gimp, Inkscape
+- Jekyll
+- Gulp
+- Git/Github
+
+por nombrar algunas, siempre estoy aprendiendo nuevas.
+
+---
+
+Si no estoy trabajando en algún proyecto, me encantar ver lso vídeo de ["The Coding Train"](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw).
