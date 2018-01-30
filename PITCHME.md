@@ -21,5 +21,5 @@ Mi afición por la informática viene de lejos ...
 
 Años más tarde me hice con un *286* y tomé contacto con el *MS-DOS* y *M$*.
 
-![bsod](https://media.giphy.com/media/NMxsPSnxfa5zO/giphy.gif)
+![bsod](https://media.giphy.com/media/NMxsPSnxfa5zO/giphy.gif)?size=25%
 
