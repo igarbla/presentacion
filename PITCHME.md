@@ -96,5 +96,5 @@ Si no estoy trabajando en algún proyecto, me encantar ver los vídeos de ["The 
 Muchas Gracias por haberme dedicado este tiempo.
 
 - Web: [Txorua Web Design](https://www.txorua.com)
-- Email: inaki@txorua.com
+- Email: <inaki@txorua.com>
 - twitter: @igarbla
