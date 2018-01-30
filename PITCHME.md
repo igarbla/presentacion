@@ -21,5 +21,10 @@ Mi afición por la informática viene de lejos ...
 
 Años más tarde me hice con un *286* y tomé contacto con el *MS-DOS* y *M$*.
 
+![bsod](bsod.png)
 
+---
 
+En *COBOL* realizé una aplicación de gestión de morosos para una asociación de empresas.
+
+![cobol](cobol.png)
