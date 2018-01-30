@@ -15,10 +15,10 @@ Obtuve el título de FPII en *Técnico especialista en informática de gestión*
 
 Mi afición por la informática viene de lejos ...
 
-![spectrum](https://media.giphy.com/media/qMGZzsYePfwv6/giphy.gif)
+![spectrum](https://media.giphy.com/media/qMGZzsYePfwv6/giphy.gif){: style="width: 25%"}
 
 ---
 
 Años más tarde me hice con un *286* y tomé contacto con el *MS-DOS* y *M$*.
 
-![bsod](https://media.giphy.com/media/NMxsPSnxfa5zO/giphy.gif)
+![bsod](https://media.giphy.com/media/NMxsPSnxfa5zO/giphy.gif){: style="width: 25%"}
