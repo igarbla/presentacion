@@ -23,9 +23,11 @@ Años más tarde me hice con un *286* y tomé contacto con el *MS-DOS* y *M$*.
 
 ![bsod](bsod.png)
 
+y en cierto modo perdí la ilusión por la informática.
+
 ---
 
-En *COBOL* realizé una aplicación de gestión de morosos para una asociación de empresas.
+Durante mis estudios de FP realizé una aplicación de *gestión de morosos* para una asociación de empresas y otra de *gestión de socios* para una sociedad gastronómica. Las dos en *COBOL*.
 
 ![cobol](cobol.png)
 
@@ -34,3 +36,5 @@ En *COBOL* realizé una aplicación de gestión de morosos para una asociación 
 Con la llegada de internet descrubí el *sofware libre*
 
 ![gnu](gnu.png)
+
+y recuperé la ilusión por la informática.
