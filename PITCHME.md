@@ -59,7 +59,7 @@ Tras varios años, con aciertos y tropiezos, he aprendido que el *diseño web* e
 
 ---
 
-La mayoría de los proyectos los he realizado con *Drupal* pero el mantenimiento de un *CMS* llega a er difícil al entrar en juego la base de datos, las actulizaciones de los módulos, etc; y requiere de bastante esfuerzo.
+La mayoría de los proyectos los he realizado con *Drupal* pero el mantenimiento de un *CMS* llega a ser una ardua tarea al entrar en juego la base de datos, las actualizaciones de los módulos, etc.
 
 ---
 
@@ -77,6 +77,7 @@ He empezado a abordar los proyectos intentando seguir el siguiente proceso:
 
 Algunas de las herramientas que suelo utilizar son:
 
+- Linux Mint
 - Atom/Vim
 - Firefox/Chrome
 - Gimp, Inkscape
@@ -88,4 +89,12 @@ por nombrar algunas, siempre estoy aprendiendo nuevas.
 
 ---
 
-Si no estoy trabajando en algún proyecto, me encantar ver lso vídeo de ["The Coding Train"](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw).
+Si no estoy trabajando en algún proyecto, me encantar ver los vídeos de ["The Coding Train"](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw).
+
+---
+
+Muchas Gracias por heberme dedicado este tiempo.
+
+Web: [Txorua Web Design](https://www.txorua.com)
+Email: inaki@txorua.com
+twitter: @igarbla
