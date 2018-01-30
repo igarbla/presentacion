@@ -15,4 +15,4 @@ Obtuve el título de FPII en *Técnico especialista en informática de gestión*
 
 Mi afición por la informática viene de lejos
 
----?video=https://giphy.com/gifs/qMGZzsYePfwv6/html5
+---?video=zx-spectrum.mp4
