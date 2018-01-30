@@ -69,7 +69,7 @@ Ahora los proyectos intento realizarlos siguiendo la arquitectura [JAMStack](htt
 
 He empezado a abordar los proyectos intentando seguir el siguiente proceso:
 
-- Reserch
+- Research
 - Content Strategy
 - Code
 
