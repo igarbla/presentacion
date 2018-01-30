@@ -28,3 +28,9 @@ Años más tarde me hice con un *286* y tomé contacto con el *MS-DOS* y *M$*.
 En *COBOL* realizé una aplicación de gestión de morosos para una asociación de empresas.
 
 ![cobol](cobol.png)
+
+---
+
+Con la llegada de internet descrubí el *sofware libre*
+
+![gnu](gnu.png)
