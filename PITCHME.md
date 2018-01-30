@@ -15,6 +15,8 @@ Obtuve el título de FPII en *Técnico especialista en informática de gestión*
 
 Mi afición por la informática viene de lejos ...
 
+![spectrum](./zx-spectrum.jpg)
+
 ---
 
 Años más tarde me hice con un *286* y tomé contacto con el *MS-DOS* y *M$*.
