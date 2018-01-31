@@ -89,7 +89,7 @@ por nombrar algunas, siempre estoy aprendiendo nuevas.
 
 ---
 
-Si no estoy trabajando en algún proyecto, me encantar ver los vídeos de ["The Coding Train"](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw).
+Si no estoy trabajando en algún proyecto, me encanta ver los vídeos de ["The Coding Train"](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw).
 
 ---
 
